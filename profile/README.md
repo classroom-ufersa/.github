@@ -15,6 +15,10 @@ Os alunos usam:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />  
 </div>
 
+Apoio: 
+<div align="left">
+  <img src="https://education.github.com/assets/200x200-classroom-d4ce2367f979996b5d58a6fcbd2ef4c3993b5e46a21fb62385e5ae711dcf6183.png" height="35" width="42" alt="icon"  /> 
+</div>
 
 <!--
 
