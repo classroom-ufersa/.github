@@ -7,7 +7,7 @@
 
 ---
 
-Os alunos usam: 
+Os alunos aprendem:  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
@@ -19,6 +19,9 @@ Apoio:
 <div align="left">
   <img src="https://education.github.com/assets/200x200-classroom-d4ce2367f979996b5d58a6fcbd2ef4c3993b5e46a21fb62385e5ae711dcf6183.png" height="35" width="42" alt="icon"  /> 
 </div>
+
+---
+[Repositório da disciplina](https://github.com/roscibely/algorithms-and-data-structure) ⭐
 
 <!--
 
