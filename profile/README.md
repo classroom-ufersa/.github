@@ -1,9 +1,7 @@
 # Os nossos alunos representam a próxima geração de desenvolvedores 👩‍💻 
 
-<div>
-  <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/develop/ufersa.jpg" width="700" height="250">
-</div>
-<i>UFERSA - Campus Pau dos Ferros</i>
+![Figure](https://github.com/classroom-ufersa/.github/blob/main/profile/2022_2.png)
+
 
 ---
 
@@ -21,6 +19,9 @@ Apoio:
 </div>
 
 ---
+
+
+
 [Repositório da disciplina](https://github.com/roscibely/algorithms-and-data-structure) ⭐
 
 <!--
