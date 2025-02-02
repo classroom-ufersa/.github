@@ -1,6 +1,6 @@
 # Os nossos alunos representam a próxima geração de desenvolvedores 👩‍💻 
 
-![Figure](https://github.com/classroom-ufersa/.github/blob/main/alunos.png)
+![Figure](https://github.com/classroom-ufersa/.github/blob/main/alunos.png?raw=true)
 
 
 ---
